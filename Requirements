@@ -1,0 +1,11 @@
+use an operating system based on debian linux or ubuntu
+You need python 2 or 3 installed on your machine 
+installing scapy :
+$ git clone https://github.com/phaethon/scapy
+Install Scapy in the standard distutils way:
+$ cd scapy
+$ sudo python3 setup.py install
+Then you can always update to the latest version:
+$ git pull
+$ sudo python3 setup.py install
+thats it 
